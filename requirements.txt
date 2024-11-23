@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+scipy
+umap-learn
+category-encoders
+sklearn-pandas
+dask
+joblib
+jupyter
