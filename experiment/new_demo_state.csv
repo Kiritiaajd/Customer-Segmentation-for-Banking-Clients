@@ -1,0 +1,435 @@
+,city,state
+0, Jamshedpur, Jharkhand
+1, Jhajjar, Haryana
+2, Mumbai, Maharashtra
+3, Navi Mumbai, Maharashtra
+4, Itanagar, Arunachal Pradesh
+5, Gurgaon, Haryana
+6, Mohali, Punjab
+7, Guntur, Andhra Pradesh
+8, Ahmedabad, Gujarat
+9, Thane, Maharashtra
+10, Pune, Maharashtra
+11, New Delhi, Delhi
+12, No 3 Kalyani Nagar Pune, Maharashtra
+13, Secunderabad, Telangana
+14, Lucknow, Uttar Pradesh
+15, Delhi, Delhi
+16, Chennai, Tamil Nadu
+17, Gram Panchayth Hyderabad, Telangana
+18, Ghaziabad, Uttar Pradesh
+19, Bangalore, Karnataka
+20, Guwahati, Assam
+21, Dhanbad, Jharkhand
+22, Muktsar, Punjab
+23, Socorro, Goa
+24, Andheri (East) Mumbai, Maharashtra
+25, Aurangabad, Maharashtra
+26, Kota, Rajasthan
+27, Jaipur, Rajasthan
+28, K V Rangareddy, Telangana
+29, Muzaffarnagar, Uttar Pradesh
+30, Burdwan, West Bengal
+31, Ludhiana, Punjab
+32, Noida, Uttar Pradesh
+33, Agra, Uttar Pradesh
+34, Shahjahanpur, Uttar Pradesh
+35, Dist Raigad Panvel, Maharashtra
+36, Dehradun, Uttarakhand
+37, Hyderabad, Telangana
+38, Godda, Jharkhand
+39, Rewari (Haryana), Haryana
+40, Nellore, Andhra Pradesh
+41, Adipur, Gujarat
+42, Dubai, UAE
+43, Allahabad, Uttar Pradesh
+44, Bathinda, Punjab
+45, Nashik, Maharashtra
+46, Jammu, Jammu & Kashmir
+47, Jabalpur, Madhya Pradesh
+48, Kashipur, Uttarakhand
+49, Etah, Uttar Pradesh
+50, Kolkata, West Bengal
+51, Vadodara, Gujarat
+52, Tirupur, Tamil Nadu
+53, Surat, Gujarat
+54, Nago Thane, Maharashtra
+55, Karur Dt, Tamil Nadu
+56, Chittoor, Andhra Pradesh
+57, Indore, Madhya Pradesh
+58, Off Cubbon Road Bangalore, Karnataka
+59, Pimpali, Maharashtra
+60, Pump Hinjewadi Pune, Maharashtra
+61, Kanjurmarg East, Maharashtra
+62, South 24 Parganas, West Bengal
+63, Mirabhayander Thane Mira Road, Maharashtra
+64, Saharanpur, Uttar Pradesh
+65, Chandigarh, Chandigarh
+66, Complex Gurgaon, Haryana
+67, Park Phase-I Hinjewadi Pune, Maharashtra
+68, Gulbarga, Karnataka
+69, Kanpur, Uttar Pradesh
+70, Visakhapatnam, Andhra Pradesh
+71, Hisar, Haryana
+72, Fort Mumbai, Maharashtra
+73, Pathankot, Punjab
+74, Sundargarh, Odisha
+75, Margao, Goa
+76, Dhule, Maharashtra
+77, Bangalore North, Karnataka
+78, Zirakpur, Punjab
+79, Suryapet, Telangana
+80, Bhiwandi, Maharashtra
+81, Rajkot, Gujarat
+82, Ambedkar Nagar, Uttar Pradesh
+83, Puri, Odisha
+84, Nagai Dt, Tamil Nadu
+85, Kerala, Kerala
+86, Ghinghartola Teh Bageshwar Dist, Uttarakhand
+87, Rourkela, Odisha
+88, Muppalla Guntur, Andhra Pradesh
+89, NewDelhi, Delhi
+90, Mira Road E, Maharashtra
+91, Bhubaneswar, Odisha
+92, Panchkula, Haryana
+93, Faridabad, Haryana
+94, Jalandhar, Punjab
+95, West Mumbai, Maharashtra
+96, Gwalior, Madhya Pradesh
+97, Baghpat, Uttar Pradesh
+98, Rajpura, Punjab
+99, Ambala, Haryana
+100, Zone Whitefield Bangalore, Karnataka
+101, Gorakhpur, Uttar Pradesh
+102, Baramati, Maharashtra
+103, Yamunanagar, Haryana
+104, Mangalore, Karnataka
+105, Taluk Bangalore, Karnataka
+106, Firozabad, Uttar Pradesh
+107, Pondicherry, Puducherry
+108, Raigad, Maharashtra
+109, Bulandshahr, Uttar Pradesh
+110, Thrissur, Kerala
+111, Sonipat, Haryana
+112, Dewas, Madhya Pradesh
+113, Ambala Cantt, Haryana
+114, Bilaspur, Chhattisgarh
+115, Rai Sonepat, Haryana
+116, Jaunpur, Uttar Pradesh
+117, Amritsar, Punjab
+118, Ranga Reddy, Telangana
+119, Headquarters Navi Mumbai, Maharashtra
+120, Baddi, Himachal Pradesh
+121, Sriperumbudur, Tamil Nadu
+122, Nainital, Uttarakhand
+123, Fatehabad, Haryana
+124, Berhampur, Odisha
+125, Nagpur, Maharashtra
+126, Meerut, Uttar Pradesh
+127, Bokaro, Jharkhand
+128, Iragavaram, Andhra Pradesh
+129, Solapur, Maharashtra
+130, Udupi, Karnataka
+131, Bhuj, Gujarat
+132, Rohtak, Haryana
+133, NaviMumbai, Maharashtra
+134, Arakkonam, Tamil Nadu
+135, Nizamabad, Telangana
+136, Ahmednagar, Maharashtra
+137, Siliguri, West Bengal
+138, Tiruvallur, Tamil Nadu
+139, Sivasagar, Assam
+140, Nanded, Maharashtra
+141, Virar, Maharashtra
+142, Hooghly, West Bengal
+143, Thiruvallur, Tamil Nadu
+144, Bengaluru, Karnataka
+145, Garden Chowk Pimple Saudagar Pune, Maharashtra
+146, Panipat, Haryana
+147, Alwar, Rajasthan
+148, Raipur, Chhattisgarh
+149, Kherli, Rajasthan
+150, Madurai, Tamil Nadu
+151, On Kalyan Road Navi Mumbai, Maharashtra
+152, Kalyani Nagar Pune, Maharashtra
+153, Idukki, Kerala
+154, Thoothukudi, Tamil Nadu
+155, Talegaon Dabhade, Maharashtra
+156, Bhilai I, Chhattisgarh
+157, Kanpur Nagar, Uttar Pradesh
+158, Panvel, Maharashtra
+159, Kharswan Jamshedpur, Jharkhand
+160, Sangli, Maharashtra
+161, Colony Rangareddi Hyderabad, Telangana
+162, Andheri W Mumbai, Maharashtra
+163, Ulhasnagar-1 Thane, Maharashtra
+164, Warangal, Telangana
+165, Sangali, Maharashtra
+166, Mahboobnagar, Telangana
+167, Roorkee, Uttarakhand
+168, Behind Excom House Mumbai, Maharashtra
+169, Karnal, Haryana
+170, Ropar, Punjab
+171, Aligarh, Uttar Pradesh
+172, Kollam, Kerala
+173, Andheri West Mumbai, Maharashtra
+174, Sion (E) Mumbai, Maharashtra
+175, Roorkee Haridwar, Uttarakhand
+176, Trivandrum, Kerala
+177, Cuttack, Odisha
+178, Palghar, Maharashtra
+179, Ganjam, Odisha
+180, Thanjavur, Tamil Nadu
+181, Gadag, Karnataka
+182, Virudhunagar, Tamil Nadu
+183, North 24 Parganas, West Bengal
+184, Kannad, Maharashtra
+185, Vellore, Tamil Nadu
+186, Ariyalur District, Tamil Nadu
+187, Hathras, Uttar Pradesh
+188, Varanasi, Uttar Pradesh
+189, Caranzalem, Goa
+190, Patiala, Punjab
+191, Krishnagiri, Tamil Nadu
+192, SAS Nagar, Punjab
+193, Suratgarh, Rajasthan
+194, Visakhapatnam, Andhra Pradesh
+195, Jayanagar Bangalore, Karnataka
+196, Perambalur, Tamil Nadu
+197, Guntur Dist, Andhra Pradesh
+198, Cuddalore, Tamil Nadu
+199, Ranchi, Jharkhand
+200, Coimbatore, Tamil Nadu
+201, Khardah, West Bengal
+202, Distt Pune, Maharashtra
+203, Tirupati (Rural), Andhra Pradesh
+204, Marks School New Delhi, Delhi
+205, Rajapalayam, Tamil Nadu
+206, Rewari, Haryana
+207, Cinema Haora, West Bengal
+208, Vasai, Maharashtra
+209, Manali, Himachal Pradesh
+210, Kanchipuram, Tamil Nadu
+211, Bhavnagar, Gujarat
+212, Solan, Himachal Pradesh
+213, Gurgaon Rd Dundhera Gurgaon, Haryana
+214, School Burdwan, West Bengal
+215, Howrah, West Bengal
+216, Medak Dist, Telangana
+217, Indiranagar Bangalore, Karnataka
+218, Gautam Buddha Nagar, Uttar Pradesh
+219, Dwarka, Delhi
+220, Nurmahal, Punjab
+221, Kurla Andheri Rd Mumbai, Maharashtra
+222, Kalyan (W) Thane, Maharashtra
+223, Neemrana, Rajasthan
+224, Udaipur, Rajasthan
+225, Alappuzha, Kerala
+226, Deoria, Uttar Pradesh
+227, Tanuku, Andhra Pradesh
+228, South Twenty Four Paraganas, West Bengal
+229, Kalyan W, Maharashtra
+230, Ernakulam, Kerala
+231, Mathura, Uttar Pradesh
+232, Dombivli, Maharashtra
+233, Purbi Singhbhum, Jharkhand
+234, Pali, Rajasthan
+235, Banur, Punjab
+236, Jagatsinghpur, Odisha
+237, Shimla, Himachal Pradesh
+238, Palakkad, Kerala
+239, Morinda Morinda, Punjab
+240, Thane W, Maharashtra
+241, Singhbhum, Jharkhand
+242, Uttara Kannada, Karnataka
+243, Una, Himachal Pradesh
+244, Hobbli Bangalore, Karnataka
+245, Jogeshwari (E) Mumbai, Maharashtra
+246, Gangtok, Sikkim
+247, Greater Noida, Uttar Pradesh
+248, Neville House Thane, Maharashtra
+249, Rai Bareli, Uttar Pradesh
+250, Raigarh CG Raigarh, Chhattisgarh
+251, Wrzesnia, Poland (Not India)
+252, Mewat, Haryana
+253, Boisar, Maharashtra
+254, Bambolim, Goa
+255, Kapurthala, Punjab
+256, To B Kaveri Tailors Bangalore, Karnataka
+257, Ghatkopar, Maharashtra
+258, Jalna, Maharashtra
+259, Block Koramangala Bangalore, Karnataka
+260, Ajmer, Rajasthan
+261, Koteshwara, Karnataka
+262, Daman, Daman and Diu
+263, Bahadurgarh, Haryana
+264, Mandi, Himachal Pradesh
+265, Chrompet Chennai, Tamil Nadu
+266, Kalol, Gujarat
+267, Belgaum, Karnataka
+268, Jalgaon, Maharashtra
+269, Mysore, Karnataka
+270, N M Joshi Marg Lower Parel Mumbai, Maharashtra
+271, Bhadrak, Odisha
+272, Ariyalur Dt, Tamil Nadu
+273, Vasai Thane, Maharashtra
+274, Thiruvarur, Tamil Nadu
+275, Darbhanga, Bihar
+276, Taluk Kancheepuram Dist, Tamil Nadu
+277, Asansol, West Bengal
+278, Bharuch, Gujarat
+279, Prakasam, Andhra Pradesh
+280, Gandhinagar, Gujarat
+281, Buladhana, Maharashtra
+282, Ponda North, Goa
+283, Ghatkopar W Mumbai, Maharashtra
+284, Jhunjhunu, Rajasthan
+285, Dombivali E, Maharashtra
+286, Sikar, Rajasthan
+287, Tanjavur, Tamil Nadu
+288, Kalyan East, Maharashtra
+289, Andheri (E) Mumbai, Maharashtra
+290, Anand, Gujarat
+291, Haridwar, Uttarakhand
+292, Nagari Thane, Maharashtra
+293, Yeola, Maharashtra
+294, Barmer, Rajasthan
+295, Ramnagar, Uttarakhand
+296, East Delhi, Delhi
+297, Paschim Medinipur, West Bengal
+298, Vapi, Gujarat
+299, Kottayam, Kerala
+300, Ariyalur, Tamil Nadu
+301, Patna, Bihar
+302, Chhindwara, Madhya Pradesh
+303, Signal Sion E Mumbai, Maharashtra
+304, Ahmed Nagar, Maharashtra
+305, Kharghar, Maharashtra
+306, Baroda, Gujarat
+307, Rangareddy Dist, Telangana
+308, Goregaon (W) Mumbai, Maharashtra
+309, Bhubaneswar, Odisha
+310, Nasik, Maharashtra
+311, Vizianagaram, Andhra Pradesh
+312, Hazaribagh, Jharkhand
+313, Trishur, Kerala
+314, Kalka, Haryana
+315, Kochi, Kerala
+316, Ratia, Haryana
+317, Srivilliputtur, Tamil Nadu
+318, Hubli, Karnataka
+319, Kalyan, Maharashtra
+320, Pathanamthitta, Kerala
+321, Nagri Vasai E Thane, Maharashtra
+322, Shillong, Meghalaya
+323, Kalyanpur Dist Haridwar Roorkee, Uttarakhand
+324, Ulhasnagar, Maharashtra
+325, Ghazipur, Uttar Pradesh
+326, Kanniyakumari, Tamil Nadu
+327, Sivagangai, Tamil Nadu
+328, Tiruchirappalli Dt, Tamil Nadu
+329, Thane District, Maharashtra
+330, Hosur, Tamil Nadu
+331, BG Road Bangalore, Karnataka
+332, Jalpaiguri, West Bengal
+333, Athal, Dadra and Nagar Haveli
+334, Durg, Chhattisgarh
+335, Silchar, Assam
+336, Unnao, Uttar Pradesh
+337, Colony Thane East Thane, Maharashtra
+338, Bargarh, Odisha
+339, Thiruvannamalai, Tamil Nadu
+340, Layout Ph 1 Mallathahalli Bangalore, Karnataka
+341, Thane West, Maharashtra
+342, T Mhalauge Tehsil Ambegav Pune, Maharashtra
+343, Siddharth Nagar, Uttar Pradesh
+344, Marg Kurla W Mumbai, Maharashtra
+345, Champaran, Bihar
+346, Kolar, Karnataka
+347, Cachar, Assam
+348, Restaurant Jaipur, Rajasthan
+349, Bangaluru, Karnataka
+350, Kaithal, Haryana
+351, Thane (W), Maharashtra
+352, Kharagpur, West Bengal
+353, Rudrapur, Uttarakhand
+354, Kangra, Himachal Pradesh
+355, Anjar Gandhidham, Gujarat
+356, Bhiwadi, Rajasthan
+357, Park Mahape Navi Mumbai, Maharashtra
+358, Mahendra Garh, Haryana
+359, Jamnagar, Gujarat
+360, Mandya, Karnataka
+361, Kurnool Dt, Andhra Pradesh
+362, Thane Vidyashram Thane, Maharashtra
+363, Banglore, Karnataka
+364, Ballia, Uttar Pradesh
+365, Haji Ali Worli Mumbai, Maharashtra
+366, Raisen, Madhya Pradesh
+367, Kheda, Gujarat
+368, Bahadurgar, Haryana
+369, Madipakkam, Tamil Nadu
+370, Nagaon, Assam
+371, Elphinstone Road (W) Mumbai, Maharashtra
+372, Dist Rajkot, Gujarat
+373, Nalgonda, Telangana
+374, Latur, Maharashtra
+375, Mau, Uttar Pradesh
+376, Pilani, Rajasthan
+377, Sirsa, Haryana
+378, Barnala, Punjab
+379, Bareilly, Uttar Pradesh
+380, Andheri (W) Mumbai, Maharashtra
+381, Pauri Garhwal, Uttarakhand
+382, High School Aurangabad, Maharashtra
+383, Kozhikode, Kerala
+384, Krishna District, Andhra Pradesh
+385, Stud Farm Pune, Maharashtra
+386, Junction Chennai, Tamil Nadu
+387, R T Nagar Bangalore, Karnataka
+388, Salem, Tamil Nadu
+389, Trichur, Kerala
+390, Krishna, Andhra Pradesh
+391, Gaya, Bihar
+392, Goregaon (E) Mumbai, Maharashtra
+393, Sindhudurg - District, Maharashtra
+394, Bangalroe, Karnataka
+395, Navsari, Gujarat
+396, College Bangalore, Karnataka
+397, Nadia, West Bengal
+398, Khammam, Telangana
+399, Balarpur Mainpuri, Uttar Pradesh
+400, Beed, Maharashtra
+401, Katra Distt Reasi, Jammu & Kashmir
+402, Udhampur, Jammu & Kashmir
+403, North West Delhi, Delhi
+404, Pratapgarh, Uttar Pradesh
+405, Bhind, Madhya Pradesh
+406, Khammam (Andhra Pradesh), Telangana
+407, Hamirpur, Himachal Pradesh
+408, Balasore, Odisha
+409, Kolkata Near College More Kolkata, West Bengal
+410, Midnapore, West Bengal
+411, Bhiwani, Haryana
+412, Modinagar, Uttar Pradesh
+413, Jaisinghpur, Uttar Pradesh
+414, Chowk Pune-Mumbai Highway Pune, Maharashtra
+415, North Goa, Goa
+416, Vidisha, Madhya Pradesh
+417, Peta Vijayawada, Andhra Pradesh
+418, School Pune, Maharashtra
+419, Rd Sakinaka Mumbai, Maharashtra
+420, Biharsharif, Bihar
+421, Noida Sec 77, Uttar Pradesh
+422, Bhandara, Maharashtra
+423, Jagadhri, Haryana
+424, Andheri Link Rd Andheri W Mumbai, Maharashtra
+425, Kancheepuram, Tamil Nadu
+426, Bariatu Road Ranchi Ranchi, Jharkhand
+427, Raigarh (Chhattisgarh), Chhattisgarh
+428, Parvatipuram, Andhra Pradesh
+429, East Godavari, Andhra Pradesh
+430, Jogeshwari Purv Mumbai, Maharashtra
+431, Dharuhera, Haryana
+432, Karimnagar, Telangana
+433, Chunabhatti Depo and Stn Mumbai, Maharashtra
