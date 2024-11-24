@@ -9,10 +9,6 @@ This project focuses on **Customer Segmentation**, a critical component for busi
 
 ## Technologies
 - **Machine Learning**
-
-## Difficulty Level
-- **Intermediate**
-
 ---
 
 ## Problem Statement
