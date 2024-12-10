@@ -1,0 +1,8 @@
+# Ignore specific large files
+Datasets/cleaned_no_outliers_data.csv
+Datasets/Cleaned_Dob_with_no_outliers__Data.csv
+experiment/Update01_age_and_dob.csv
+
+# Ignore all CSV files in certain folders
+Datasets/*.csv
+experiment/*.csv
