@@ -1,0 +1,119 @@
+[33mcommit 5dcc79ec047deeab84b128dd220d6e65bc416f99[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Kiriti Aajad <kiriti.aajad@gmail.com>
+Date:   Sat Dec 7 13:51:20 2024 +0530
+
+    data updation
+
+ experiment/experiments.ipynb | 1139 [32m++++++++++++++++++++++++++++++++++++++++[m[31m--[m
+ 1 file changed, 1090 insertions(+), 49 deletions(-)
+
+[33mcommit 113dd07044b21263a6c85443eb794d04f4b81a33[m
+Author: Kiriti Aajad <kiriti.aajad@gmail.com>
+Date:   Tue Nov 26 14:56:51 2024 +0530
+
+    update
+
+ experiment/experiments.ipynb | 12 [32m++++++++++[m[31m--[m
+ 1 file changed, 10 insertions(+), 2 deletions(-)
+
+[33mcommit b9c4448d22b16fd5fa322346e659c835a0d24ba1[m
+Author: KIRITI AAJAD <112309709+Kiritiaajd@users.noreply.github.com>
+Date:   Sun Nov 24 17:59:58 2024 +0530
+
+    Update README.md
+
+ README.md | 4 [31m----[m
+ 1 file changed, 4 deletions(-)
+
+[33mcommit 60e55c94ad12cb37de183efa9c7e94d391c36331[m
+Author: KIRITI AAJAD <112309709+Kiritiaajd@users.noreply.github.com>
+Date:   Sun Nov 24 17:59:37 2024 +0530
+
+    Update README.md
+
+ README.md | 110 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m[31m-[m
+ 1 file changed, 109 insertions(+), 1 deletion(-)
+
+[33mcommit cb8b2a2b3e1b7c3ca33b2d551f644337494ce195[m
+Author: Kiriti Aajad <kiriti.aajad@gmail.com>
+Date:   Sun Nov 24 11:35:21 2024 +0530
+
+    update
+
+ Datasets/cities_with_states_and_rural_urban.csv | 105 [32m+++[m
+ experiment/bank_transactions.xlsx               | Bin [31m0[m -> [32m61994790[m bytes
+ experiment/cities.ipynb                         | 319 [32m++++++++[m
+ experiment/demo_state.txt                       | 436 [32m+++++++++++[m
+ experiment/experiments.ipynb                    | 991 [32m++++++++++++++++++[m[31m------[m
+ experiment/new_demo_state.csv                   | 435 [32m+++++++++++[m
+ experiment/new_demo_state.txt                   | 435 [32m+++++++++++[m
+ experiment/new_demo_state.xlsx                  | Bin [31m0[m -> [32m15951[m bytes
+ experiment/output.csv                           | 436 [32m+++++++++++[m
+ experiment/output.txt                           | 300 [32m+++++++[m
+ experiment/unique_locations.txt                 | 436 [32m+++++++++++[m
+ 11 files changed, 3659 insertions(+), 234 deletions(-)
+
+[33mcommit d555e2549bfdc12b7f66363c8e7eb49152cc7f0b[m
+Author: Kiriti Aajad <kiriti.aajad@gmail.com>
+Date:   Sat Nov 23 20:36:48 2024 +0530
+
+    Data Clenning
+
+ Datasets/bank_transactions.csv | 1048568 [32m+++++++++++++++++++++++++++++++++++++[m
+ experiment/experiments.ipynb   |     935 [32m+[m
+ 2 files changed, 1049503 insertions(+)
+
+[33mcommit fb43be479956d4fb4660b3796305fc977bc36bdd[m
+Author: Kiriti Aajad <kiriti.aajad@gmail.com>
+Date:   Sat Nov 23 19:21:10 2024 +0530
+
+    requirements installation
+
+ Purchasing capabilities of a customer _description.pdf | Bin [31m0[m -> [32m193628[m bytes
+ requirements.txt                                       |  13 [32m+++++++++++++[m
+ 2 files changed, 13 insertions(+)
+
+[33mcommit 076fac443872d0ca60924b1e8f98679900b42b72[m
+Author: Kiriti Aajad <kiriti.aajad@gmail.com>
+Date:   Tue Oct 29 13:57:35 2024 +0530
+
+    Initial commit
+
+ .github/workflows                    |  0
+ experiment/experiments.ipynb         |  0
+ init_setup.sh                        |  0
+ py_project.toml                      |  0
+ requirements.txt                     |  0
+ requirements_dev.txt                 |  0
+ setup.cfg                            |  0
+ setup.py                             |  0
+ src/__init__.py                      |  0
+ src/components/data_ingestion.py     |  0
+ src/components/data_tranformation.py |  0
+ src/components/model_evaluation.py   |  0
+ src/components/model_traines.py      |  0
+ src/database/__init__.py             |  0
+ src/database/mogodb_crud.py          |  0
+ src/database/mongodb_connection.py   |  0
+ src/exception/exception.py           |  0
+ src/logger/logging.py                |  0
+ src/pipeline/__init__.py             |  0
+ src/pipeline/prediction_pipeline.py  |  0
+ src/pipeline/training.py             |  0
+ src/utils/__init__.py                |  0
+ src/utils/utils.py                   |  0
+ template.py                          | 51 [32m++++++++++++++++++++++++++++++++++++[m
+ tests/integration/__init__.py        |  0
+ tests/unit/__init__.py               |  0
+ tox.ini                              |  0
+ 27 files changed, 51 insertions(+)
+
+[33mcommit eb8a72710891ac7fcf6bd0d9991158b8fa982101[m
+Author: KIRITI AAJAD <112309709+Kiritiaajd@users.noreply.github.com>
+Date:   Tue Oct 29 13:54:20 2024 +0530
+
+    Initial commit
+
+ LICENSE   | 21 [32m+++++++++++++++++++++[m
+ README.md |  1 [32m+[m
+ 2 files changed, 22 insertions(+)
