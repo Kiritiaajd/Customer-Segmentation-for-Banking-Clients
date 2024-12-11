@@ -2,13 +2,16 @@
 
 ## Project Overview
 
-This project focuses on **Customer Segmentation**, a critical component for businesses in identifying and understanding distinct customer groups. The goal is to analyze customers' purchasing capabilities for a banking client based on their transaction history, allowing for targeted marketing, pricing, and product development strategies.
+This project focuses on **Customer Segmentation**, a crucial aspect for businesses to identify and understand distinct customer groups. The objective is to analyze customers' purchasing capabilities for a banking client based on their transaction history. This analysis will enable targeted marketing, pricing strategies, and product development.
+
+---
 
 ## Domain
 - **Banking**
 
 ## Technologies
 - **Machine Learning**
+
 ---
 
 ## Problem Statement
