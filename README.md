@@ -32,7 +32,7 @@ This project aims to:
 
 ## Dataset
 
-- Primary dataset: [RapidAPI Customer Dataset](https://drive.google.com/file/d/1WAwZZuXX9kEm3IXQ5H-MaLe2NHcvY4mj/view?usp=sharing)
+- Primary dataset: [Kaggle Dataset](https://drive.google.com/file/d/1WAwZZuXX9kEm3IXQ5H-MaLe2NHcvY4mj/view?usp=sharing)
 - Alternate sources: Any dataset aligned with customer segmentation requirements can be utilized.
 
 ---
